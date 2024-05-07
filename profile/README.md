@@ -1,7 +1,7 @@
 <img src="https://github.com/OpenYellow/OpenYellow/raw/main/media/cover_zoom.png?v1">
 
 # OpenYellow - 1C:Enterprise и OpenSource
-[![Telegram](https://img.shields.io/badge/chat-telegram-yellow?style=flat&logo=telegram&logoColor=white)](https://t.me/openyellowproject)
+[![Telegram](https://img.shields.io/badge/channel-telegram-yellow?style=flat&logo=telegram&logoColor=white)](https://t.me/openyellowproject)
 
 OpenYellow - это проект, основной задачей которого является привлечение внимания к теме открытого ПО, а также популяризация практики создания и публикации разработок под открытыми лицензиями в сообществе разработчиков 1С:Предприятие
 
