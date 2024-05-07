@@ -15,7 +15,7 @@
 <br><br>
 
 ## Агрегатор OpenYellow
-<img src="https://github.com/OpenYellow/OpenYellow/raw/main/media/logo.png?v1" width="128" align="left">
+<img src="https://github.com/OpenBSL/.github/raw/main/media/openyellow.png?v2" width="128" align="left">
 <br>Это портал по адресу <a href="https://openyellow.notion.site">openyellow.notion.site</a>, на котором ежедневно обновляются и публикуются данные о самых популярных, новых и недавно обновленных репозиториях, которые либо написаны на языке 1С/OneScript, либо имеют прямое к нему отношение <br>
 
 > Репозиторий: <a href="https://github.com/OpenYellow/OpenYellow">OpenYellow/OpenYellow</a>
