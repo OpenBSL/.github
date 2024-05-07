@@ -7,7 +7,7 @@
 <br>
 
 ## Сервер SonarQube от OpenBSL
-<img src="https://github.com/OpenBSL/.github/raw/main/media/Sonar.png?v1" width="128" align="left">
+<img src="https://github.com/OpenBSL/.github/raw/main/media/Sonar.png?v4" width="128" align="left">
 <br>Если вы участник Open-source сообщества и у вас есть открытый проект на 1С или OneScript, то вы можете бесплатно использовать сервер SonarQube от OpenBSL. Для этого необходимо написать <a href="https://t.me/nixel2007">@nixel</a>
 
 > Сайт: <a href="https://sonar.openbsl.ru/">https://sonar.openbsl.ru/</a>
