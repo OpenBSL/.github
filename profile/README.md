@@ -1,4 +1,14 @@
 <img src="https://github.com/OpenYellow/OpenYellow/raw/main/media/cover_zoom.png?v1">
 
-# OpenYellow 
-1C:Enterprise и OpenSource
+# OpenYellow - 1C:Enterprise и OpenSource
+
+Основная задача проекта - привлечение внимания к теме открытого ПО, а также популяризация практики создания и публикации разработок под открытыми лицензиями в сообществе разработчиков 1С:Предприятие
+
+Сейчас он состоит из таких частей как:
+
+
+## Агрегатор OpenYellow
+<img src="https://github.com/OpenYellow/OpenYellow/raw/main/media/logo.png?v1" width="128" align="left">
+Это портал по адресу <a href="https://openyellow.notion.site">openyellow.notion.site</a>, на котором ежедневно обновляются и публикуются данные о самых популярных, новых и недавно обновленных репозиториях, которые либо написаны на языке 1С/OneScript, либо имеют прямое к нему отношение <br>
+
+> Репозиторий: <a href="https://github.com/OpenYellow/OpenYellow">OpenYellow/OpenYellow</a>
