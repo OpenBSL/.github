@@ -18,7 +18,7 @@
 <img src="https://github.com/OpenBSL/.github/raw/main/media/openyellow.png?v2" width="128" align="left">
 <br>Это портал по адресу <a href="https://openyellow.org">openyellow.org</a>, на котором ежедневно обновляются и публикуются данные о самых популярных, новых и недавно обновленных репозиториях, которые либо написаны на языке 1С/OneScript, либо имеют прямое к нему отношение <br>
 
-> Репозиторий: <a href="https://github.com/OpenYellow/OpenYellow">OpenYellow/OpenYellow</a>
+> Репозиторий: <a href="https://github.com/OpenBSL/OpenYellow">OpenBSL/OpenYellow</a>
 
 <br>
 
