@@ -16,7 +16,7 @@
 
 ## Агрегатор OpenYellow
 <img src="https://github.com/OpenBSL/.github/raw/main/media/openyellow.png?v2" width="100" align="left">
-Это портал по адресу <a href="https://openyellow.org">openyellow.org</a>, на котором ежедневно обновляются и публикуются данные о самых популярных, новых и недавно обновленных репозиториях, которые либо написаны на языке 1С/OneScript, либо имеют прямое к нему отношение <br>
+**OpenYellow** - это портал по адресу <a href="https://openyellow.org">openyellow.org</a>, на котором ежедневно обновляются и публикуются данные о самых популярных, новых и недавно обновленных репозиториях, которые либо написаны на языке 1С/OneScript, либо имеют прямое к нему отношение <br>
 
  Репозиторий: <a href="https://github.com/OpenBSL/OpenYellow">OpenBSL/OpenYellow</a>
 
@@ -24,7 +24,7 @@
 
 ## Пакетный менеджер YellowPM
 <img src="https://github.com/user-attachments/assets/2b7b0619-7ee0-41ae-803e-14854e44a4e2" width="100" align="left">
-YellowPM - это пакетный менеджер, основанный на индексах OpenYellow, который позволяет скачивать, открывать или устанавливать внешнние обработки и расширения из релизов Github прямо внутри 1С<br>
+**YellowPM** - это пакетный менеджер, основанный на индексах OpenYellow, который позволяет скачивать, открывать или устанавливать внешнние обработки и расширения из релизов Github прямо внутри 1С<br>
 
 Репозиторий: <a href="https://github.com/OpenBSL/YellowPM">OpenBSL/YellowPM</a>
 
